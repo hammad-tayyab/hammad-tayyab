@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/ht-logo.png" width="90" alt="HT logo"/>
+<img src="ht-logo.png" width="90" alt="HT logo"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=4000&color=FF3B30&background=0D0D0D00&center=true&vCenter=true&width=600&height=70&lines=Hammad+Tayyab" alt="Hammad Tayyab" />
