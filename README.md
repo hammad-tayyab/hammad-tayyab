@@ -16,11 +16,11 @@ HT.
   <span style="color:#FF3B30; letter-spacing:3px; font-family: monospace;">SOFTWARE&nbsp;ENGINEER</span>
 </p>
 
-<p><sub><b>ML Intern @ FlyRank AI</b> &nbsp;·&nbsp; Software Engineering @ GIKI '26 &nbsp;·&nbsp; Rawalpindi, Pakistan</sub></p>
+<p><sub><b>ML Intern @ FlyRank AI</b> &nbsp;·&nbsp; Software Engineering @ GIKI '25 &nbsp;·&nbsp; Rawalpindi, Pakistan</sub></p>
 
 <br/>
 
-<a href="PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/VIEW_MY_WORK-0D0D0D?style=for-the-badge&logoColor=white&labelColor=0D0D0D&color=0D0D0D&logo=safari" height="40"/></a>
+<a href="https://hammad-tayyab.vercel.app/"><img src="https://img.shields.io/badge/VIEW_MY_WORK-FF3B30?style=for-the-badge&logoColor=0D0D0D&labelColor=FF3B30&color=FF3B30&logo=safari" height="40"/></a>
 
 </div>
 
@@ -33,7 +33,7 @@ HT.
 ### `// ABOUT`
 
 ```
-> Software Engineering student at GIKI, Batch 2026
+> Software Engineering student at GIKI, Batch 2025
 > ML Intern at FlyRank AI
 > Based in Rawalpindi, Pakistan
 > Building AI agents, automation tools & developer-side products
@@ -103,7 +103,7 @@ AI learning roadmap generator with Google Calendar sync and autonomous GitHub re
 </td>
 <td width="50%" valign="top">
 
-**[Nighabaan](https://github.com/hammad-tayyab/micathon)**
+**[Nighabaan](https://github.com/hammad-tayyab/micathon)** · [Live](https://nighaban-micro-escrow-platform.vercel.app/)
 
 Micro-escrow marketplace for Pakistan's informal labor market. *Pay safely. Work confidently. Trust guaranteed.* React · Supabase · TypeScript.
 
@@ -137,9 +137,9 @@ Survey-driven mess standards analysis (49 responses) with a feasibility report f
 
 <p>
 <a href="mailto:hammadtayyab@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logoColor=E8E6E1&color=1A1A1A&logo=gmail" height="32"/></a>
-<a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logoColor=E8E6E1&color=1A1A1A&logo=linkedin" height="32"/></a>
+<a href="https://www.linkedin.com/in/hammad-tayyab-developer/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logoColor=E8E6E1&color=1A1A1A&logo=linkedin" height="32"/></a>
 <a href="https://github.com/hammad-tayyab"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logoColor=E8E6E1&color=1A1A1A&logo=github" height="32"/></a>
-<a href="PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logoColor=FF3B30&color=1A1A1A&logo=safari" height="32"/></a>
+<a href="https://hammad-tayyab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logoColor=FF3B30&color=1A1A1A&logo=safari" height="32"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=4&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=footer" width="100%"/>
