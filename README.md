@@ -44,10 +44,7 @@
 <p>
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=python" height="28"/>
 <img src="https://img.shields.io/badge/C++-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=cplusplus" height="28"/>
-<img src="https://img.shields.io/badge/C-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=c" height="28"/>
 <img src="https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=postgresql" height="28"/>
-<img src="https://img.shields.io/badge/HTML-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=html5" height="28"/>
-<img src="https://img.shields.io/badge/CSS-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=css3" height="28"/>
 </p>
 
 ### `// AI & ML`
@@ -55,20 +52,16 @@
 <p>
 <img src="https://img.shields.io/badge/LLMs-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
 <img src="https://img.shields.io/badge/Agentic_AI-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
-<img src="https://img.shields.io/badge/Agents-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
-<img src="https://img.shields.io/badge/Supervised_Learning-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
-<img src="https://img.shields.io/badge/NLP-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
+<img src="https://img.shields.io/badge/RAG-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
 <img src="https://img.shields.io/badge/Data_Analysis-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
 <img src="https://img.shields.io/badge/Pandas-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=pandas" height="28"/>
 <img src="https://img.shields.io/badge/NumPy-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=numpy" height="28"/>
-<img src="https://img.shields.io/badge/Seaborn-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
 </p>
 
 ### `// WEB`
 
 <p>
 <img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=react" height="28"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=tailwindcss" height="28"/>
 <img src="https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=supabase" height="28"/>
 </p>
 
@@ -78,8 +71,6 @@
 <img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=git" height="28"/>
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=github" height="28"/>
 <img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A&logo=linux" height="28"/>
-<img src="https://img.shields.io/badge/API_Integration-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
-<img src="https://img.shields.io/badge/Printify-0D0D0D?style=flat-square&logoColor=E8E6E1&color=1A1A1A" height="28"/>
 </p>
 
 <br/>
@@ -113,13 +104,6 @@ Micro-escrow marketplace for Pakistan's informal labor market. *Pay safely. Work
 **[Harold Trading Agent](https://github.com/hammad-tayyab/Trading-agent-harold-of-hackathon)**
 
 Autonomous crypto trading agent — Groq LLaMA 3.3 70B, RSI-14/SMA signals, Kraken CLI, EIP-712, ERC-8004 on Sepolia testnet.
-
-</td>
-<td width="50%" valign="top">
-
-**GIKI Dining Research**
-
-Survey-driven mess standards analysis (49 responses) with a feasibility report for campus catering improvements.
 
 </td>
 </tr>
