@@ -14,11 +14,11 @@
   <span style="color:#FF3B30; letter-spacing:3px; font-family: monospace;">SOFTWARE&nbsp;ENGINEER</span>
 </p>
 
-<p><sub><b>ML Intern @ FlyRank AI</b> &nbsp;·&nbsp; Software Engineering @ GIKI '29 &nbsp;·&nbsp; Rawalpindi, Pakistan</sub></p>
+<p><sub>Software Engineering @ GIKI '29 &nbsp;·&nbsp; Rawalpindi, Pakistan</sub></p>
 
 <br/>
 
-<a href="https://hammad-tayyab.vercel.app/"><img src="https://img.shields.io/badge/VIEW_MY_WORK-FF3B30?style=for-the-badge&logoColor=0D0D0D&labelColor=FF3B30&color=FF3B30&logo=safari" height="40"/></a>
+<a href="https://hammad-tayyab.me/"><img src="https://img.shields.io/badge/VIEW_MY_WORK-FF3B30?style=for-the-badge&logoColor=0D0D0D&labelColor=FF3B30&color=FF3B30&logo=safari" height="40"/></a>
 
 </div>
 
@@ -31,8 +31,7 @@
 ### `// ABOUT`
 
 ```
-> Software Engineering student at GIKI, Batch 2029
-> ML Intern at FlyRank AI
+> Software Engineering student at GIKI, Batch 2025
 > Based in Rawalpindi, Pakistan
 > Building AI agents, automation tools & developer-side products
 ```
@@ -121,7 +120,7 @@ Autonomous crypto trading agent — Groq LLaMA 3.3 70B, RSI-14/SMA signals, Krak
 <a href="mailto:hammadtayyab@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logoColor=E8E6E1&color=1A1A1A&logo=gmail" height="32"/></a>
 <a href="https://www.linkedin.com/in/hammad-tayyab-developer/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logoColor=E8E6E1&color=1A1A1A&logo=linkedin" height="32"/></a>
 <a href="https://github.com/hammad-tayyab"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logoColor=E8E6E1&color=1A1A1A&logo=github" height="32"/></a>
-<a href="https://hammad-tayyab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logoColor=FF3B30&color=1A1A1A&logo=safari" height="32"/></a>
+<a href="https://hammad-tayyab.me/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logoColor=FF3B30&color=1A1A1A&logo=safari" height="32"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=footer" width="100%"/>
